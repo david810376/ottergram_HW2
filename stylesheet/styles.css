@@ -35,6 +35,7 @@ a { text-decoration: none; }
 .button{
     border: none;
     color: white;
+    background: rgb(149, 194, 215);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
