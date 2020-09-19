@@ -5,8 +5,8 @@ var THUMBNAIL_LINK_SELECTOR = '[data-image-role="trigger"]';
 var HIDDDEN_DETAIL_CLASS = 'hidden-detail';
 var TINY_EFFECT_CLASS = 'is-tiny';
 var ESC_KEY = 27;
-var BUTTON_NEXT = '[data-image-role = "nextButton"]';
-var BUTTON_PREV = '[data-image-role = "prevButton"]';
+var BUTTON_NEXT = '[data-image-role = "next"]';
+var BUTTON_PREV = '[data-image-role = "prev"]';
 
 var array = getThumbnailsArray();
 var long = 0;
